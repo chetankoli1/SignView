@@ -1,0 +1,3 @@
+include ':SignetureView'
+include ':app'
+rootProject.name = "singViewGenrator"
